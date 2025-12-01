@@ -2,14 +2,7 @@
 
 ### Overview
 #### This project analyzes commercial domestic flight data to explore factors that influence ticket prices. The workflow includes data cleansing, data analysis, feature engineering, and data visualization. The final goal is to prepare the dataset for a regression model that predicts flight prices based on characteristics like route, airline, number of stops (layovers), and time of day. 
-#### The dataset includes:
-#### Dates
-#### Airports
-#### Price
-#### Airline
-#### Route
-#### Number of Stops
-#### Flight lands next day (long or overnight flight)
+#### The dataset includes: Dates, Airports, Price, Airline, Route, Number of Stops, Flight lands next day (long or overnight flight)
 
 ### Project Objectives
 #### 1. Data Cleaning: Handle missing/inconsistent formats, standardize categorical fields, remove duplicate entries
